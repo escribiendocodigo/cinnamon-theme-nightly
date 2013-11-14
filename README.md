@@ -9,7 +9,7 @@ This is a Dark [Cinnamon](http://cinnamon.linuxmint.com/ "Cinnamon project homep
 ```bash
 mkdir ~/.themes
 cd ~/.themes
-git clone git://github.com/escribiendocodigo/cinnamon-theme-nightly.git
+git clone https://github.com/escribiendocodigo/cinnamon-theme-nightly.git
 ```
 Open up Cinnamon Settings -> Themes -> Select Cinnamon Theme Nightly
 
